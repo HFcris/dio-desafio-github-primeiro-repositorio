@@ -1,0 +1,19 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comandos:
+
+CTRL + L - Limpa o terminal
+
+git status - verifica o estado dos arquivos ou diretório
+
+git add . ou -a - adiciona todos os arquivos
+
+git commit - comita o arquivo
+
+git rm - remove o arquivo
+
+git init - cria um novo repositório
+
+git config --list - ve a lista 
+
+git push - envia os arquivos para o Github
